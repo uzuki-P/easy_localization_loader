@@ -1,3 +1,7 @@
+## 2.0.2
+- Update connectivity_plus package to ^6.0.3
+- Update easy_localization package to ^3.0.7
+
 ## 2.0.1
 
 - Extend delimiters for csv loader
